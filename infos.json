@@ -1,0 +1,26 @@
+{
+  "bot_url": "https://miami.cmzwyy56rs.workers.dev",
+  "devise": "CHF",
+  "minimum_commande": 15,
+  "livraison": {
+    "actif": true,
+    "texte": "Livraison à Lausanne et environs",
+    "frais": "Offerte dès 30 CHF"
+  },
+  "retrait": {
+    "actif": true,
+    "adresse": "[Ton adresse]",
+    "texte": "Retrait sur place, commande prête en 20 min"
+  },
+  "horaires": [
+    { "jours": "Lundi – Vendredi", "heures": "17h – 23h" },
+    { "jours": "Samedi – Dimanche", "heures": "12h – 23h" }
+  ],
+  "paiement": "Cash · TWINT",
+  "contact": {
+    "telegram": "ton_pseudo",
+    "instagram": "ton_instagram",
+    "snapchat": "",
+    "telephone": ""
+  }
+}
