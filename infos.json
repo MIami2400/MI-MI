@@ -1,11 +1,11 @@
 {
   "bot_url": "https://miami.cmzwyy56rs.workers.dev",
   "devise": "CHF",
-  "minimum_commande": 15,
+  "minimum_commande": 50CHF
   "livraison": {
     "actif": true,
-    "texte": "Livraison à Lausanne et environs",
-    "frais": "Offerte dès 30 CHF"
+    "texte": "Livraison à Renens et altours",
+    "frais": "minimum de commande 50CHF"
   },
   "retrait": {
     "actif": true,
@@ -18,8 +18,8 @@
   ],
   "paiement": "Cash · TWINT",
   "contact": {
-    "telegram": "ton_pseudo",
-    "instagram": "ton_instagram",
+    "telegram": "@MIAMI244",
+    "instagram": "aa2l_rn",
     "snapchat": "",
     "telephone": ""
   }
