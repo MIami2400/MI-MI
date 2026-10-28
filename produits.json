@@ -1,0 +1,74 @@
+[
+  {
+    "id": "sb",
+    "categorie": "BURGERS",
+    "nom": "Le South Beach",
+    "description": "Double smash bœuf, cheddar, sauce maison",
+    "prix": 14.90,
+    "photo": "medias/south-beach.jpg",
+    "video": ""
+  },
+  {
+    "id": "od",
+    "categorie": "BURGERS",
+    "nom": "L'Ocean Drive",
+    "description": "Poulet croustillant, salade, sauce citron-ail",
+    "prix": 13.50,
+    "photo": "medias/ocean-drive.jpg",
+    "video": ""
+  },
+  {
+    "id": "pt",
+    "categorie": "BURGERS",
+    "nom": "Le Palm Tree",
+    "description": "Galette végé, avocat, oignons confits",
+    "prix": 12.90,
+    "photo": "medias/palm-tree.jpg",
+    "video": ""
+  },
+  {
+    "id": "fr",
+    "categorie": "À CÔTÉ",
+    "nom": "Frites Big Cash",
+    "description": "Coupées épaisses, sel de mer",
+    "prix": 4.90,
+    "photo": "medias/frites.jpg",
+    "video": ""
+  },
+  {
+    "id": "ng",
+    "categorie": "À CÔTÉ",
+    "nom": "Nuggets Hundred",
+    "description": "6 pièces maison, sauce au choix",
+    "prix": 6.90,
+    "photo": "medias/nuggets.jpg",
+    "video": ""
+  },
+  {
+    "id": "fl",
+    "categorie": "BOISSONS",
+    "nom": "Flamingo Lemonade",
+    "description": "Limonade framboise-citron",
+    "prix": 4.50,
+    "photo": "medias/flamingo.jpg",
+    "video": ""
+  },
+  {
+    "id": "ms",
+    "categorie": "BOISSONS",
+    "nom": "Milkshake Sunset",
+    "description": "Vanille, caramel ou fraise",
+    "prix": 6.50,
+    "photo": "medias/milkshake.jpg",
+    "video": ""
+  },
+  {
+    "id": "mt",
+    "categorie": "FORMULE",
+    "nom": "Money Talks",
+    "description": "Burger + frites + boisson",
+    "prix": 19.90,
+    "photo": "medias/money-talks.jpg",
+    "video": "medias/money-talks.mp4"
+  }
+]
